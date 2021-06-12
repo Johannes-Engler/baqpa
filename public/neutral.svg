@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 31.5 31.5" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.a,.b{fill:none;stroke:#1e7af9;stroke-linecap:round;stroke-linejoin:round;}.a{stroke-width:1.5px;}.b{stroke-width:2px;}</style>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -2.25, -2.25)">
+    <path class="a" d="M33,18A15,15,0,1,1,18,3,15,15,0,0,1,33,18Z"/>
+    <path class="a" d="M 12.916 23.484 C 18.936 23.431 27.964 23.464 20.138 23.464"/>
+    <path class="b" d="M13.5,13.5h.015"/>
+    <path class="b" d="M22.5,13.5h.015"/>
+  </g>
+</svg>
